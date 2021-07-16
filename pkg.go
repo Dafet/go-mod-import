@@ -1,3 +1,5 @@
 package importme
 
-var Test = 123
+var (
+	Develop = 123
+)
