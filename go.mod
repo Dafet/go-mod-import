@@ -1,3 +1,3 @@
-module github.com/Dafet/gomod-import-test
+module github.com/Dafet/gomod-import
 
 go 1.16
